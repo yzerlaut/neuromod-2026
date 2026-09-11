@@ -22,3 +22,4 @@ wi    = 10*nS
 # --- external excitatory input ("ext"): same decay as recurrent exc, own weight ---
 w_ext = 4*nS
 
+
