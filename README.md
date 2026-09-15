@@ -66,3 +66,9 @@ Compute, before and after onset of neuromodulation:
 
 - the mean evoked response following stimulus presentation
 - the decoding accuracy for different stimuli
+
+## References
+
+- Fu et al., 2014, http://dx.doi.org/10.1016/j.cell.2014.01.050 
+- Pi et al., 2013, http://nature.com/doifinder/10.1038/nature12676 
+
