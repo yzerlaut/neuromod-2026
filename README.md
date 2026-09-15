@@ -32,17 +32,24 @@ git clone https://github.com/yzerlaut/neuromod-2026
 
 ### Tasks
 
-1. Implement another afferent excitatory drive targetting pyramidal and VIP interneurons
+### 1. Implement another afferent excitatory drive targetting pyramidal and VIP interneurons
 
 i.e. starting from this arcitecture:
 
-![alt text](figs/basic-architecture.png)
+![](figs/basic-architecture.png)
 
 Implement this architecture with the additional neuromodulatory drive:
 
-![alt text](figs/new-architecture.png)
+![](figs/new-architecture.png)
 
 
-What is the impact and functional role of this VIP-mediated neuromodulatory drive ?
-How does it affect the properties of ongoing cortical activity ?
-How does it affect the processing of incoming stimuli ?
+### 2. Study the effect on neural dynamics of the modulatory drive
+
+Compute the firing rates of all populations before and after the onset of a neuromodulatory drive.
+
+### 3. Study the effect on network computation of the modulatory drive 
+
+Compute, before and after onset of neuromodulation:
+
+- the mean evoked response following stimulus presentation
+- the decoding accuracy for different stimuli
