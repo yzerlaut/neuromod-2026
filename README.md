@@ -19,8 +19,21 @@ pip install numpy scipy scikit-learn matplotlib
 pip install brian2
 ```
 
-### 4. Clone this repository
+### 4. Install a Code Editor
 
+For those who doesn't already have one:
+- https://code.visualstudio.com/
+
+Otherwise, you can use the Jupyer Notebook interface.
+
+
+### 5. Clone this repository
+
+If you don't already have git:
+```
+conda install git
+```
+and then:
 ```
 git clone https://github.com/yzerlaut/neuromod-2026
 ```
